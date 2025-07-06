@@ -12,7 +12,6 @@ p {
   color: #8f8f8f;
 }
 
-/* Headings */
 
 .big-heading {
   font-family: "Montserrat-Black";
@@ -26,13 +25,13 @@ p {
   color: #6495ed;
 }
 
-/* Containers */
+
 
 .container-fluid{
   padding: 7% 15%;
 }
 
-/* Sections */
+
 
 .colored-section {
   background-color: #4169e1;
@@ -43,7 +42,7 @@ p {
   background-color: #fff;
 }
 
-/* Navigation Bar */
+
 
 .navbar {
   padding: 0 0 4.5rem;
@@ -64,7 +63,7 @@ p {
   font-family: "Montserrat-Light";
 }
 
-/* Buttons */
+
 
 .download-button {
   margin: 5% 3% 5% 0;
@@ -82,7 +81,7 @@ p {
   padding: 3% 15% 7%;
 }
 
-/* Title Image */
+
 
 .title-image {
   width: 60%;
@@ -91,7 +90,7 @@ p {
   right: 30%;
 }
 
-/* Features Section */
+
 
 #features {
   position: relative;
@@ -143,7 +142,7 @@ p {
   margin: 20px 20px 50px;
 }
 
-/* Pricing Section */
+
 
 #pricing {
   padding: 100px;
@@ -158,7 +157,7 @@ p {
   padding: 3% 2%;
 }
 
-/* CTA Section */
+
 
 .card{
   color: #6495ed;
@@ -171,7 +170,6 @@ p {
 .card-body button:hover{
   background-color: #4169e1;
 }
-/* Footer Section */
 
 
 .social-icon {
