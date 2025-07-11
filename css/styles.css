@@ -12,7 +12,6 @@ p {
   color: #8f8f8f;
 }
 
-
 .big-heading {
   font-family: "Montserrat-Black";
   font-size: 3.5rem;
@@ -26,12 +25,9 @@ p {
 }
 
 
-
 .container-fluid{
   padding: 7% 15%;
 }
-
-
 
 .colored-section {
   background-color: #4169e1;
@@ -41,8 +37,6 @@ p {
 .white-section {
   background-color: #fff;
 }
-
-
 
 .navbar {
   padding: 0 0 4.5rem;
@@ -69,8 +63,6 @@ p {
   margin: 5% 3% 5% 0;
 }
 
-/* Title Section */
-
 #title {
   background-color: #4169e1;
   color: #fff;
@@ -81,16 +73,12 @@ p {
   padding: 3% 15% 7%;
 }
 
-
-
 .title-image {
   width: 60%;
   transform: rotate(25deg);
   position: absolute;
   right: 30%;
 }
-
-
 
 #features {
   position: relative;
@@ -114,7 +102,6 @@ p {
   color: #6495ed;
 }
 
-/* Testimonial Section */
 
 #testimonials {
   background-color: #4169e1;
@@ -142,8 +129,6 @@ p {
   margin: 20px 20px 50px;
 }
 
-
-
 #pricing {
   padding: 100px;
 }
@@ -156,8 +141,6 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
-
-
 
 .card{
   color: #6495ed;
